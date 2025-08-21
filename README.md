@@ -56,4 +56,4 @@ For issues, suggestions, or feedback, please open an issue in this repository.
 
 ---
 
-*Enjoy your enhanced photos and videos with Remfor-the-badgeadgesrc
+*Enjoy your enhanced photos and videos with Remini
