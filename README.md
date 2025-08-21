@@ -25,7 +25,6 @@
 - Enhance facial details and textures  
 - Before & after preview of media enhancements  
 - Simple and easy-to-use interface  
-- Works offline after installation  
 
 ---
 
