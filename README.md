@@ -14,6 +14,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/binyamin-binni2/Remini-Pro/total?style=for-the-badge" alt="Total Downloads">
+</p>
+
 **File:** `Remini_Pro.apk`  
 **Version:** Latest  
 
@@ -52,4 +56,4 @@ For issues, suggestions, or feedback, please open an issue in this repository.
 
 ---
 
-*Enjoy your enhanced photos and videos with Remini Pro!*
+*Enjoy your enhanced photos and videos with Remfor-the-badgeadgesrc
