@@ -1,6 +1,6 @@
 # Remini Pro APK
 
-![Remini Pro](https://user-images.githubusercontent.com/yourusername/yourimage.png)  
+![Remini Pro](https://raw.githubusercontent.com/binyamin-binni2/Remini-Pro/refs/heads/main/IMG-20250821-WA0009.jpg)  
 
 **Remini Pro** is the ultimate app to enhance, restore, and improve the quality of your photos using advanced AI technology.  
 
@@ -14,7 +14,6 @@ You can download the latest version of **Remini Pro APK** directly from the rele
 
 **File:** `Remini_Pro.apk`  
 **Version:** Latest  
-**Size:** (Add file size here)
 
 ---
 
